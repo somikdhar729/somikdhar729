@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+Welcome to my GitHub profile! I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. 
+
+Summary
+I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building sequence based Visual Place recognition pipeline.
