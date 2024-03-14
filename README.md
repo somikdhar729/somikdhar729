@@ -29,5 +29,4 @@ Languages and Tools
 <code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/assets/45973106/8495c5c4-e453-4eb7-91d1-c9529b8711dd"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="40" src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer/v1/images/brand/simulink-white-logo.svg"></code>
+<code><img height="40" src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg"></code>
