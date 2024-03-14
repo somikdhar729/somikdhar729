@@ -1,7 +1,7 @@
 
 
 <h1 align= "center"> Hi there! I'm Somik <img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> </h1>
-
+<img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.webp"/>
 <!--
 **somikdhar729/somikdhar729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
