@@ -28,4 +28,4 @@ Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
-<code><img height="40" src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda_logo.jpg"></code>
+<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCUDA&psig=AOvVaw0kvOCIBxVNacUrhAGy7FQT&ust=1710518178175000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPihlvWO9IQDFQAAAAAdAAAAABAE"></code>
