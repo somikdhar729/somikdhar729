@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align: center;"> Hi there! Somik here <img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> </h1>
+<h1 align= "center"> Hi there! Somik here <img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> </h1>
 
 <!--
 **somikdhar729/somikdhar729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
