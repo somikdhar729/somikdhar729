@@ -1,7 +1,11 @@
 <h1 align= "center"> Hi there! I'm Somik <img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/></h1>
-<p align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p>Your text goes here.</p>
+  <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" alt="Your Image Description" style="width: auto; max-width: 100%; height: auto;">
+</div>
+<!-- <p align="right">
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif"/>
-</p>
+</p> -->
 About me
 Welcome to my GitHub profile! I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. 
 
