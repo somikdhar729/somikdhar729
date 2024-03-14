@@ -20,3 +20,7 @@ Welcome to my GitHub profile! I'm a master's student at New York University. Wit
 
 Summary
 I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building sequence based Visual Place recognition pipeline.
+
+Languages and Tools
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
