@@ -12,7 +12,7 @@
 <h4 align="center" class="customFontColor">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</h4>
 
 
-### Current Work
+### 🚀 Current Work 🚀
  I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. 
 
 
