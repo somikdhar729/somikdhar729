@@ -4,7 +4,7 @@
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
 </p>
 
-<p>Welcome to my GitHub profile! I'm a ** Computer Vision/Robotics Software Engineer **  focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
+<p>Welcome to my GitHub profile! I'm a <b>Computer Vision/Robotics Software Engineer</b>  focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
 
 
 About me
