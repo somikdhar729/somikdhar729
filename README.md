@@ -1,6 +1,6 @@
 <h1 align= "center"> Hi there<img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> I'm Somik Dhar</h1>
 
-<span style="font-size: 24px; font-weight: bold;">Welcome to my GitHub profile!</span>
+<p style="font-size: 24px; font-weight: bold;">Welcome to my GitHub profile!</p>
 
 <p align="center">
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
