@@ -1,6 +1,5 @@
 <h1 align= "center"> Hi there<img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> I'm Somik Dhar</h1>
 
-**Welcome to my GitHub profile!**
 <h1 style="border-bottom: none;">Welcome to my GitHub profile!</h1>
 
 <p align="center">
