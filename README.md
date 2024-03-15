@@ -7,8 +7,14 @@
 </p>
 
 <p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to make prototypes a reality, I harness my technical acumen to engineer not just products, but <b>pioneering solutions</b> that redefine our technological landscape.🌐🛠️</p>
- 
-<h4 align="center" style=" color: blue;">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</h4>
+<style>
+.customFontColor {
+    font-family: 'Arial', sans-serif;
+    color: #3498db; /* This is a blue color */
+}
+</style>
+
+<h4 align="center" class="customFontColor">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</h4>
 
 
 About me
