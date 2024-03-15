@@ -1,9 +1,10 @@
-<h1 align= "center"> Hi there<img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> I'm Somik </h1>
+<h1 align= "center"> Hi there<img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> I'm Somik Dhar</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" alt="Your Image Description" style="width: auto; max-width: 100%; height: auto;">
-  <p>I'm a Computer Vision/Robotics Software Engineer focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
-</div>
+<p align="center">
+<img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
+</p>
+
+<p>I'm a Computer Vision/Robotics Software Engineer focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
 
 
 About me
