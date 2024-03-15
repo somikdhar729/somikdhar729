@@ -6,7 +6,8 @@
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
 </p>
 
-<p> I'm a <b>Computer Vision/Robotics Software Engineer</b>  focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
+<p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to make prototypes a reality, I harness my technical acumen to engineer not just products, but **pioneering solutions** that redefine our technological landscape.🌐🛠️
+<br> <b>It's about crafting a legacy of **revolutionary breakthroughs** that transform how we interact with technology and the world around us.</b></p>
 
 
 About me
