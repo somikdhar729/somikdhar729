@@ -4,11 +4,11 @@
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
 </p>
 
-<p>I'm a Computer Vision/Robotics Software Engineer focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
+<p>Welcome to my GitHub profile! I'm a ** Computer Vision/Robotics Software Engineer **  focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research. I'm focused on applying my technical skills to engineer revolutionary products that redefine our technological landscape.</p>
 
 
 About me
-Welcome to my GitHub profile! I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. 
+ I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. 
 
 Summary
 I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building sequence based Visual Place recognition pipeline.
