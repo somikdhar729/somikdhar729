@@ -13,10 +13,7 @@
 
 
 ### 🚀 Current Work 🚀
- I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. 
-
-
-I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building sequence based Visual Place recognition pipeline.
+I'm a master's student at New York University, graduating in spring 2024. I am working as a researcher at AI4CE lab on my project to build a sequence-based Visual Place Recognition(VPR) pipeline. 
 
 <h2> Languages and Tools </h2>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
