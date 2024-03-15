@@ -1,10 +1,3 @@
-<style>
-.customFontColor {
-    font-family: 'Arial', sans-serif;
-    color: #3498db; /* This is a blue color */
-}
-</style>
-
 <h1 align= "center"> Hi there<img src="https://github.com/somikdhar729/somikdhar729/blob/main/wave.gif" width="30px" height="30px"/> I'm Somik Dhar</h1>
 
 <h3 align="center">Welcome to my GitHub profile!</h3>
@@ -13,16 +6,16 @@
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
 </p>
 
-<p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to make prototypes a reality, I harness my technical acumen to engineer not just products, but <b>pioneering solutions</b> that redefine our technological landscape.🌐🛠️</p>
+<p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to making prototypes a reality, I harness my technical acumen to engineer products and <b>pioneering solutions</b> that redefine our technological landscape.🌐🛠️</p>
 
 
 <h4 align="center" class="customFontColor">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</h4>
 
 
-About me
- I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. 
+### Current Work
+ I'm a master's student at New York University. With a focus on computer vision, vpr pipeline, feature matching, foundational models, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. 
 
-Summary
+
 I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building sequence based Visual Place recognition pipeline.
 
 <h2> Languages and Tools </h2>
