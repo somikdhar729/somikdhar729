@@ -8,7 +8,7 @@
 
 <p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to make prototypes a reality, I harness my technical acumen to engineer not just products, but **pioneering solutions** that redefine our technological landscape.🌐🛠️
  
-<br> <b>It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</b></p>
+<b>It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</b></p>
 
 
 About me
