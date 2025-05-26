@@ -6,10 +6,11 @@
 <img src="https://github.com/somikdhar729/somikdhar729/blob/main/tumblr_mz264jjFan1qav3uso2_r2_500.gif" style="width: auto; max-width: 100%; height: auto;">
 </p>
 
-<p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to making prototypes a reality, I harness my technical acumen to engineer products and <b>pioneering solutions</b> that redefine our technological landscape.🌐🛠️</p>
+# AI Engineer | Computer Vision to the Edge: Optimizing ML Performance & Solving "Boring" Problems with Engineering Innovation
+<p>Transitioning from academia to industry, I am working to find solutions for problems in computer vision, robotics, ML performance optimization, ML inference and edge computing. Inspired by the engineering-first approach that has propelled LLMs like DeepSeek, I'm committed to building robust and scalable AI that truly delivers impact.</p>
 
 
-<h4 align="center" class="customFontColor">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us.</h4>
+<h4 align="center" class="customFontColor">It's about crafting a legacy of revolutionary breakthroughs that transform how we interact with technology and the world around us. </h4>
 
 
 ### 🚀 Current Work 🚀
