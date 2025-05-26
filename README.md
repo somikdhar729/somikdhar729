@@ -31,4 +31,4 @@ Currently working at NextLeap Aeronautics as a Perception and AI Engineer, worki
 <code><img height="40" src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/rpi_logo.webp"></code>
-<code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/nvidia_jetson_logo.jpeg"></code>
+<code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/jetson_logo.jpeg"></code>
