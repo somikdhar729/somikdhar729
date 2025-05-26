@@ -21,7 +21,7 @@ Currently working at NextLeap Aeronautics as a Perception and AI Engineer, worki
 <h2> Languages and Tools </h2>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="40" src="https://seeklogo.com/vector-logo/503267/pytorch"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
