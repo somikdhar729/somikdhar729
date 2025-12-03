@@ -18,7 +18,7 @@
 
 <!-- <p> I'm a <b>Computer Vision/Robotics Software Engineer</b> 🤖 on a relentless pursuit to chart new territories in autonomous navigation and computer vision. I am focused on innovating and streamlining autonomous navigation systems. I'm committed to advancing the field of robotics and computer vision with practical, impactful research.  With a steadfast commitment to making prototypes a reality, I harness my technical acumen to engineer products and <b>pioneering solutions</b> that redefine our technological landscape.🌐🛠️</p> --> 
 
-### 🚀 Current Work 🚀
+### 🚀 Current Role 🚀
 
 <!-- Currently working at NextLeap Aeronautics as a Perception and AI Engineer, working on autonomy stack for drones. Always looking for new opportunities in the field of computer vision & robotics -->
 Perception & AI Engineer at NextLeap Aeronautics, building vision-based autonomy, tracking, and real-time perception for drones.  
