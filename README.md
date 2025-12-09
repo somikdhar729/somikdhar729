@@ -32,8 +32,8 @@ Open to opportunities in robotics, computer vision, and AI systems.
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/assets/45973106/8495c5c4-e453-4eb7-91d1-c9529b8711dd"></code>
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/rpi_logo.webp"></code>
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/jetson_logo.jpeg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
 <code><img height="40" src="https://github.com/somikdhar729/somikdhar729/blob/main/tensorrt_logo.webp"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
