@@ -21,8 +21,9 @@
 ### 🚀 Current Role 🚀
 
 <!-- Currently working at NextLeap Aeronautics as a Perception and AI Engineer, working on autonomy stack for drones. Always looking for new opportunities in the field of computer vision & robotics -->
-Perception & AI Engineer at NextLeap Aeronautics, building vision-based autonomy, tracking, and real-time perception for drones.  
-Open to opportunities in robotics, computer vision, and AI systems.
+<!-- Perception & AI Engineer at NextLeap Aeronautics, building vision-based autonomy, tracking, and real-time perception for drones.--!>
+Computer Vision Engineer II at Wobot AI.
+Open to opportunities in computer vision, AI Infra, and AI systems.
 
 <!-- I'm a master's student at New York University, graduating in spring 2024. I am working as a researcher at AI4CE lab on my project to build a sequence-based Visual Place Recognition(VPR) pipeline. -->
 
